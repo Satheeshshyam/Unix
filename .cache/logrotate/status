@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/nethra/.cache/upstart/ssh-agent.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/gnome-keyring-ssh.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/unity-settings-daemon.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/dbus.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/window-stack-bridge.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/gpg-agent.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/hud.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/indicator-sound.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/unity-panel-service.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/upstart-event-bridge.log" 2017-4-26-1:0:0
+"/home/nethra/.cache/upstart/unity7.log" 2017-4-26-1:0:0
